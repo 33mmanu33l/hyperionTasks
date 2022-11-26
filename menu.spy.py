@@ -1,0 +1,6 @@
+userinput=input("please enter your 3 favourite food?:")
+print("item 1:" + userinput)
+userinput=input(" please enter item 2?:")
+print("item 2:"+ userinput)
+userinput=input("please enter item 3?:" )
+print("item 3:" + userinput)
